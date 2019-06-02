@@ -12,3 +12,10 @@ Also make sure to change all directories to your directories so it should be '/U
 ```bash
 To run the script type in 'create <name of your folder>'
 ```
+
+### Example file Config:
+```py
+USERNAME = ''
+PASSWORD = ''
+PATH = ''
+```
